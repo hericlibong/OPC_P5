@@ -1,0 +1,3 @@
+Écrivez une fonction appelée calculate_average qui prend en paramètre une liste de nombres et renvoie la moyenne de ces nombres.
+
+Si vous voulez, vous pouvez vérifier votre code avant de le soumettre grâce à l’onglet “Tests”, dans le menu “Tools” en bas à gauche de votre écran.
